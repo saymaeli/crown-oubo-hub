@@ -1,2 +1,14 @@
 # crown-oubo-hub
-HTML page archive and documentation
+
+静态内容发布记录
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
